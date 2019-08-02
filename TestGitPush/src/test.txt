@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 第一次提交
 在Eclipse上进行了修改
+=======
+第一次提交
+在GitHub上进行了修改
+>>>>>>> branch 'master' of https://github.com/ByLinPeng/java-foundation.git
